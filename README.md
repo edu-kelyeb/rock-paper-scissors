@@ -1,2 +1,2 @@
 # rock-paper-scissors
-Rock smash,paper rap,scissors cut
+Rock smash, paper wrap, scissors cut
