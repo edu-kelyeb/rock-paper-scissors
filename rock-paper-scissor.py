@@ -1,24 +1,38 @@
 import random
 
+#Välkomst medelande och spelarens namn.
 print("välkommen till sten,sax,påse")
 namn = input("skriv in ditt användarnamn: ")
 
+#Spelvaribaler
 val= ["sten","sax","påse"]
 poäng_spelare = 0
 poäng_dator = 0
 
-for runda in range(1, 4):
+# Här bestäms att det ska spelas 3 rundor.
+antal_rundor_input = input("Hur många rundor vill du spela?: ")
+while True: 
+    try:
+        antal_rundor = int(antal_rundor_input)
+        if antal_rundor > 0:
+            break
+        antal_rundor_input = input("Skriv ett positivt heltal för antal rundor: ")
+    except ValueError:
+        antal_rundor_input = input("Ogitligt tal. Skriv antal rundor som heltal: ")
+
+for runda in range(1, antal_rundor +1):
     print(f"\n-- Runda {runda}--")
     spelare_val = input("Vad väljer du? (Sten/Sax/Påse): ").lower()
 
-    # här kontrolleras giltigt val
+    # Här kontrolleras giltigt val
     while spelare_val not in val:
         spelare_val= input("Felaktigt val! välj Sten, Sax eller Påse: ").lower()
-
+    
+    # Här är datorns slumpmässiga val.
     dator_val = random.choice(val)
     print(f"Dator valde:{dator_val}")
 
-    # På denna kod bestämmer vi en vinnare. 
+    # På denna kod bestämmes en vinnare. 
     if spelare_val == dator_val:
         print("Oavgjort")
     elif (spelare_val == "sten" and dator_val == "sax") or\

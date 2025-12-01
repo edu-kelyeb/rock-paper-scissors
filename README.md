@@ -25,13 +25,26 @@ PROBLEM: Vi hade först lite problem med att komma på hur vi skulle göra ett s
 
 20/11/25 - Lektion 4
 Otto, Kelvin, Alexander 
+
 Idag har vi arbetat med att skapa reglerna för själva spelet sten, sax, påse, (kelvin) skulle anse att alla i gruppen var väldigt engagerad i. Vi gjorde klart villkoren som avgör vem som vinner varje omgång, och vi lade även in funktionaliteten som gör att poäng räknas när antingen spelaren eller datorn vinner. För att komma igång tog vi hjälp av Google och letade efter en grundidé för hur man kan bygga upp logiken, eftersom vi tyckte att det var lite klurigt i början. Det hjälpte oss att förstå strukturen bättre och komma vidare med projektet.
 
 PROBLEM: Vi hade som sagt problem med att komma igång med att göra reglerna vi till själva programmet. Vi tog hjälp av Google, din film på klassrum, klasskamarater och vi tog också hjälp av gammal programmeringsuppgifter.
 
 
-24/11/25- vi gjorde slutresultat. Vi fick ett error löstes snabbt
+24/11/25 - Lektion 5
+Otto, Kelvin, Alexander
+
+Nu är vi färdiga med själva koden, och vi avslutade arbetet med att fastställa slutresultatet. Först skriver programmet ut hur många poäng varje spelare har fått, och därefter avgör det med hjälp av ett villkor vem som samlat flest poäng och därmed vunnit spelet. Under arbetets gång stötte vi på ett error medelander där något med att användarens namnen inte fungerade som det skulle. Vi lyckades aldrig riktigt lista ut vad felet berodde på, men efter att vi helt enkelt testade att köra koden igen löste sig problemet av sig själv.
 
 
+27/11/25 - Lektion 6
+Otto, Kelvin, Alexander
 
-27/11/25-
+Idag har vi skrivit och fyllt på readme filen från förra lektioner. Vi stötte på problem när det kom till att få readme att synka till GitHub då vi tydligen inte hade kryssat i filen när vi skulle commita, men det löste vi med ett extra commit helt enkelt. Alla har varit delaktiga med att skriva på loggen.
+
+1/12/25 - Lektion 7
+Otto, Kelvin, Alexander
+
+Vi har forsatt att skriva på readme, dock fick vi reda på att i koden ska användaren få välja hur många spel rundor man ska spela och inte 3 rundor som vi hade gjort.
+
+
