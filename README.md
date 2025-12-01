@@ -32,7 +32,7 @@ Idag har vi arbetat med att skapa reglerna för själva spelet sten, sax, påse,
 PROBLEM: Vi hade som sagt problem med att komma igång med att göra reglerna vi till själva programmet. Vi tog hjälp av Google, din film på klassrum, klasskamarater och vi tog också hjälp av gammal programmeringsuppgifter.
 
 
-24/11/25- vi gjorde slutresultat. Vi fick ett error löstes snabbt
+24/11/25- vi gjorde slutresultat. Vi fick en error som vi löste snabbt.
 
 
 
