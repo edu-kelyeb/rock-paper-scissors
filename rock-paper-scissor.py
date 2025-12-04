@@ -9,7 +9,7 @@ val= ["sten","sax","påse"]
 poäng_spelare = 0
 poäng_dator = 0
 
-# Här bestäms att det ska spelas 3 rundor.
+# Här bestäms antal rundor som ska spelas.
 antal_rundor_input = input("Hur många rundor vill du spela?: ")
 while True: 
     try:

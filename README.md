@@ -33,9 +33,7 @@ PROBLEM: Vi hade som sagt problem med att komma igång med att göra reglerna vi
 24/11/25 - Lektion 5
 Otto, Kelvin, Alexander
 
-# Nu är vi färdiga med själva koden, och vi avslutade arbetet med att fastställa slutresultatet. Först skriver programmet ut hur många poäng varje spelare har fått, och därefter avgör det med hjälp av ett villkor vem som samlat flest poäng och därmed vunnit spelet. Under arbetets gång stötte vi på ett error medelander där något med att användarens namnen inte fungerade som det skulle. Vi lyckades aldrig riktigt lista ut vad felet berodde på, men efter att vi helt enkelt testade att köra koden igen löste sig problemet av sig själv.
-
-24/11/25- vi gjorde slutresultat. Vi fick en error som vi löste snabbt.
+Nu är vi färdiga med själva koden, och vi avslutade arbetet med att fastställa slutresultatet. Först skriver programmet ut hur många poäng varje spelare har fått, och därefter avgör det med hjälp av ett villkor vem som samlat flest poäng och därmed vunnit spelet. Under arbetets gång stötte vi på ett error medelander där något med att användarens namnen inte fungerade som det skulle. Vi lyckades aldrig riktigt lista ut vad felet berodde på, men efter att vi helt enkelt testade att köra koden igen löste sig problemet av sig själv.
 
 27/11/25 - Lektion 6
 Otto, Kelvin, Alexander
@@ -45,4 +43,9 @@ Idag har vi skrivit och fyllt på readme filen från förra lektioner. Vi stött
 1/12/25 - Lektion 7
 Otto, Kelvin, Alexander
 
-Vi har forsatt att skriva på readme, dock fick vi reda på att i koden ska användaren få välja hur många spel rundor man ska spela och inte 3 rundor som vi hade gjort.
+Vi har forsatt att skriva på readme, dock fick vi reda på att i koden ska användaren få välja hur många spelrundor man ska spela och inte 3 rundor som vi hade gjort. Så vi ändrade koden så att man nu kan skriva in antal rundor, den nya koden ser också till att man skriver ett positivt heltal för antal rundor (Alexander). Först trodde vi att det inte funkade eftersom att när vi spelade 5 rundor så fick vi 3 poäng vilket ledde till att jag trodde att den inte delade ut mer än tre av någon anledning, men sen så kom jag på att det var på grund att vi fick oavgjort och då får man inte poäng.
+
+4/12/25 - Lektion 8
+Otto, Kelvin, Alexander
+
+Kelvin testade koden för att se till att den fungerade som den ska och la till lite kommentarer till koden. Sen gick alla igenom koden för att få större förståelse och insikt i hur koden är uppbyggd så att alla i gruppen förstår och är redo för presentationen.
