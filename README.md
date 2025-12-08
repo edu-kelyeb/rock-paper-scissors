@@ -49,3 +49,8 @@ Vi har forsatt att skriva på readme, dock fick vi reda på att i koden ska anv�
 Otto, Kelvin, Alexander
 
 Kelvin testade koden för att se till att den fungerade som den ska och la till lite kommentarer till koden. Sen gick alla igenom koden för att få större förståelse och insikt i hur koden är uppbyggd så att alla i gruppen förstår och är redo för presentationen.
+
+8/12/25 - Lektion 9 sista lektion!
+Otto, kelvin, Alexander
+
+Vi är klara med projektet, vi har tyckt att det har varit lärorikt och utvecklande då vi har kunnat tillämpa och utveckla våra kunskaper. Vi har även lärt oss att hitta lösningar online när vi har stött på problem. Sammanfattnigsvis tycker vi att det har varit en kul och givande uppgift.
